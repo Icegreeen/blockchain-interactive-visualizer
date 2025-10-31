@@ -1,6 +1,15 @@
-# Blockchain Interactive Visualizer
+<p>
+   <img src="public/back.png" alt='back' />
+</p>
 
-An interactive, educational web application that visualizes how blockchain networks work. Watch nodes communicate, see blocks being mined and propagated across the network, and understand the fundamentals of blockchain technology through hands-on exploration.
+<h1 align="center">
+    <a">Blockchain Interactive Visualizer</a>
+</h1>
+
+<p align="center">
+    An interactive, educational web application that visualizes how blockchain networks work. Watch nodes communicate, see blocks being mined and propagated across the network, and understand the fundamentals of blockchain technology through hands-on exploration.
+
+</p>
 
 ## Features
 
@@ -46,4 +55,5 @@ Contributions are welcome! This project is open source and we're happy to accept
 ## License
 
 This project is open source and available under the MIT License.
+
 
